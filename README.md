@@ -1,10 +1,11 @@
 # Random-Password-Generator
 Its a application created using python and Django
+
 1)open the project folder with visual studio code.
 
-5)open ther Terminal.
+2)open ther Terminal.
 
-6)Now enter the following commands in terminal.
+3)Now enter the following commands in terminal.
 
 -->pip install django
 
