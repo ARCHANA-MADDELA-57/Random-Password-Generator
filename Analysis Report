@@ -1,1 +1,11 @@
+1. First,the program would prompt the user to enter the desired length of the password.
 
+2. Then,it would ask if the user wants to include uppercase letters, lowercase letters, numbers, and special characters in the password.
+
+3. Based on the user's preferences ,the program would generate a random password by selecting characters from the choosen characters set.
+
+4. The generated password would be displayed to the user.
+
+5. If the user wants to generate multiple passwords, the program would repeat the process.
+
+6. To optimise the program, you can consider using the secret modules in python for generating secure random numbers and strings.
