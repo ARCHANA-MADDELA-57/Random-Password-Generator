@@ -1,5 +1,9 @@
-1) One common technique is to use the 'random'module in Python. This module provides functions for generating pseudo-random numbers,which can be used to create random passwords.You can use the 'random.choice()' function to randomly select characters from a pool of availbale characters and build the password string.
+1) One common technique is to use the 'random'module in Python. 
+This module provides functions for generating pseudo-random numbers,
+which can be used to create random passwords.
+You can use the 'random.choice()' function to randomly select characters from a pool of availbale characters and build the password string.
 
-2)Another challenge I encountered was allowing the user to customise the password by choosing the length and the types of characters to include. To address this, I implemented a user-friendly  interface that prompts the user for their preferences and validates the input to ensure it meets the requirements.
+2)Another challenge I encountered was allowing the user to customise the password by choosing the length and the types of characters to include. 
+To address this, I implemented a user-friendly  interface that prompts the user for their preferences and validates the input to ensure it meets the requirements.
 
 3) Overall, the technique of using the 'random' module and 'random.choice()' function and creating a user-friendly interface helped me overcome the challenges and create a robust random password generator program.
