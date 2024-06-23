@@ -1,24 +1,76 @@
-# Random-Password-Generator
-Its a application created using python and Django
+**Table of Contents**
 
-1)open the project folder with visual studio code.
+1.Introduction
 
-2)open ther Terminal.
+2.Features
 
-3)Now enter the following commands in terminal.
+3.Tech Stack
 
--->pip install django
+4.Installation
 
--->mkvirtualenv env
+5.Usage
 
--->pip install mysql-connector
+6.Contact
 
--->django-admin startproject randompass
+**Introduction**
 
--->cd randompass
+--The Random Password Generator Web Application is designed to help users generate strong, random passwords. The application provides a user-friendly interface to specify password length and character types (letters, digits, symbols).
 
--->python manage.py startapp randompassapp
+**Features**
 
--->python manage.py runserver
+--User authentication and authorization
 
--->now click on the link in the terminal:http://127.0.0.1:8000/
+--Password generation with customizable options
+
+--Responsive design
+
+**Tech Stack**
+
+--Frontend: HTML, CSS, JavaScript
+
+--Backend: Python, Django
+
+--Database: SQLite
+
+**Installation**
+
+**Steps**
+
+**Clone the repository:**
+
+--git clone https://github.com/ARCHANA-MADDELA-57/Random-Password-Generator
+
+--cd random-password-generator
+
+**Create and activate a virtual environment:**
+
+--python -m venv env
+
+--source env/bin/activate  # On Windows, use `env\Scripts\activate`
+
+**Install dependencies:**
+
+--pip install -r requirements.txt
+
+**Apply migrations:**
+
+--python manage.py migrate
+
+**Run the development server:**
+
+--python manage.py runserver
+
+**Usage**
+
+--Open your web browser and navigate to http://127.0.0.1:8000.
+
+--Use the password generation form to create random passwords based on your specified criteria.
+
+**Contact**
+
+--If you have any questions, feel free to reach out:
+
+--Mail Id: archanaarchu5757gmail.com
+
+--GitHub: ARCHANA-MADDELA-57
+
